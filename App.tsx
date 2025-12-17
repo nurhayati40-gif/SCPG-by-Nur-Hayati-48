@@ -49,7 +49,7 @@ const App: React.FC = () => {
 
             <header className="text-center my-10 md:my-16 animate-fade-in">
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">
-                    Smart Color Palette Generator
+                    Smart Color Palette Generator by Nur
                 </h1>
                 <p className="mt-3 text-lg text-gray-600 max-w-2xl mx-auto">
                     Instantly generate beautiful color schemes from any mood or keyword.
